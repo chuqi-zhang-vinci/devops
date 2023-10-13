@@ -1,0 +1,22 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuqi-zhang-vinci/devops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuqi-zhang-vinci/devops/issues"
+  },
+  "homepage": "https://github.com/chuqi-zhang-vinci/devops#readme",
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
